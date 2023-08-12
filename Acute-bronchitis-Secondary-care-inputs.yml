@@ -1,0 +1,39 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/noninfectious-acute-bronchitis-secondary-care---secondary.py
+inputModule3:
+  class: File
+  path: python/acute-bronchitis-secondary-care-streptococcu---secondary.py
+inputModule4:
+  class: File
+  path: python/acute-bronchitis-secondary-care-rhinovirus---secondary.py
+inputModule5:
+  class: File
+  path: python/acute-bronchitis-secondary-care-coxsackievirus---secondary.py
+inputModule6:
+  class: File
+  path: python/acute-bronchitis-secondary-care-influenzae---secondary.py
+inputModule7:
+  class: File
+  path: python/acute-bronchitis-secondary-care-unspecified---secondary.py
+inputModule8:
+  class: File
+  path: python/bronchitis---secondary.py
+inputModule9:
+  class: File
+  path: python/acute-bronchitis-secondary-care---secondary.py
+inputModule10:
+  class: File
+  path: python/acute-bronchitis-secondary-care-pneumoniae---secondary.py
+inputModule11:
+  class: File
+  path: python/acute-bronchitis-secondary-care-echovirus---secondary.py
+inputModule12:
+  class: File
+  path: python/chronic-acute-bronchitis-secondary-care---secondary.py
+inputModule13:
+  class: File
+  path: python/output-cases.py
